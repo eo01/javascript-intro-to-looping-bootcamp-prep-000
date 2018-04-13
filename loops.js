@@ -9,5 +9,6 @@ function forLoop(array) {
 return array;
 }
 function whileLoop(n){
-  let countdown
+  let countdown = n;
+  
 }
